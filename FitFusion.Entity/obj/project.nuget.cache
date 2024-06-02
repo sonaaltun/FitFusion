@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5IQ/M/4FadYGopIRTk7Ogx4oKMwA2fuRBSXuvKHtJOSfDOfFh4tkzf3OZ2WGE5aAm4CFIXpXxUksMxFGEpCBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonaa\\Desktop\\BOOST(Bilge Adam)\\ProjectPresentation\\Fit Fusion\\FitFusion\\FitFusion.Entity\\FitFusion.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonaa\\.nuget\\packages\\magick.net.core\\13.6.0\\magick.net.core.13.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
